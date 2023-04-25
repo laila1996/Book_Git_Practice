@@ -2,3 +2,6 @@ page 6 keep working
 
 
 practice 6
+
+
+page 6 updated from github
